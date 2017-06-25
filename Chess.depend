@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1496623768 source:c:\users\abcde\desktop\projects\chess\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+	"judgeDredd.h"
+
+1496626234 c:\users\abcde\desktop\projects\chess\judgedredd.h
+
+1497211672 source:c:\users\abcde\desktop\chess\chess\judgedredd.cpp
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+	"stdio.h"
+	<cstdlib>
+	"judgeDredd.h"
+	"Player1.h"
+	"Player2.h"
+
+1497211686 c:\users\abcde\desktop\chess\chess\judgedredd.h
+
+1497153945 c:\users\abcde\desktop\chess\chess\player1.h
+	"judgeDredd.h"
+
+1497211672 c:\users\abcde\desktop\chess\chess\player2.h
+	"judgeDredd.h"
+
+1497155467 source:c:\users\abcde\desktop\chess\chess\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+	"judgeDredd.h"
+	<cstdlib>
+
+1497211672 source:c:\users\abcde\desktop\chess\chess\player1.cpp
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+	"Player1.h"
+
+1497211672 source:c:\users\abcde\desktop\chess\chess\player2.cpp
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+	"Player2.h"
+
+1497211333 source:c:\users\abcde\desktop\chess\chess\piecemoves.cpp
+
